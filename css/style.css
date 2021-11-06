@@ -1,0 +1,81 @@
+.clear {
+    clear: both;
+}
+.top {
+    margin: 40px 100px;
+}
+.titl {
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 10px;
+}
+.title1 {
+    font-size: 22px;
+}
+.title2 {
+    font-size: 22px;
+}
+.container {
+    width: 1170px;
+}
+.left-block {
+    width: 580px;
+    float: left;
+    margin-top: 10px;
+}
+.burger {
+    width: 200px;
+    float: left;
+}
+.wraper {
+    background-color: lightgray;
+}
+.title {
+    float: left;
+    color: blue;
+    font-size: 14px;
+}
+.title3 {
+    float: left;
+}
+.about {
+    width: 200px;
+    float: left;
+    padding-top: 20px;
+    color: darkgray;
+    font-size: 14px;
+}
+.right-block {
+    width: 580px;
+    float: right;
+    margin-top: 10px;
+}
+.marg {
+    margin-top: 50px;
+}
+
+/* Section 2 */
+.top-info {
+    float: left;
+    background-color: lightgray;
+    width: 380px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.bottom {
+    margin: 40px 100px;
+}
+.burger1 {
+    width: 380px;
+}
+.title5 {
+    margin: 5px;
+    font-size: 10px;
+    width: 380px;
+    text-align: center;
+}
+.title6 {
+    font-size: 12px;
+    width: 380px;
+    text-align: center;
+}
